@@ -83,7 +83,7 @@
 			<table>
 				<tr>
 					<td><img src="https://b.zmtcdn.com/data/pictures/1/20626791/7bafabdfd670d85e5bd4e8e96a2b3972_featured_v2.jpg" height=auto width="400"></td>
-					<td><p>Frank and Abitha have been adding sweetness to their customers' lives since 2020.  Frank's recipes have been passed down from his mother and use simple and fresh ingredients to produce delightful flavors.  Both of them will personally greet you with a welcoming smile when you visit!</p></td>
+					<td><p>Geetha and Abitha have been adding sweetness to their customers' lives since 2020.  Frank's recipes have been passed down from his mother and use simple and fresh ingredients to produce delightful flavors.  Both of them will personally greet you with a welcoming smile when you visit!</p></td>
 				</tr>
 			</table>
 			<hr>
