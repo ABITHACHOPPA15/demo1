@@ -34,7 +34,7 @@
 		<div id="mainPictures" class="center">
 			<table>
 				<tr>
-					<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ228QgCraNY_nEM-SN2GbY114hA-jfXPKeKw&s" height=auto width="490"></td>
+					<td><img src="https://www.tastingtable.com/img/gallery/18-must-try-indian-mithai/intro-1670865737.jpg" height=auto width="490"></td>
 					<td><img src="https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_60,w_750,f_auto/7-pani-puri-canva-phpxM6qmK" height=auto width="450"></td>
 				</tr>
 			</table>
