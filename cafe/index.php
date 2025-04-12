@@ -35,7 +35,7 @@
 			<table>
 				<tr>
 					<td><img src="images/Coffee-and-Pastries.jpg" height=auto width="490"></td>
-					<td><img src="images/Cake-Vitrine.jpg" height=auto width="450"></td>
+					<td><img src="https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_60,w_750,f_auto/7-pani-puri-canva-phpxM6qmK" height=auto width="450"></td>
 				</tr>
 			</table>
 			<hr>
